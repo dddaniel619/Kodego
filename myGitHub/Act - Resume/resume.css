@@ -1,0 +1,45 @@
+div.resume {
+    background-color: azure;
+    height: 50%;
+    width: 1000px;
+    margin: 200px;
+    max-width: 1000px;
+    min-height:200px;
+    box-shadow: 0 35px 55px;
+}
+
+.personal {
+    background-color: azure;
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+.obj {
+    background-color: azure;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.exp {
+    background-color: azure;
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+
+.educ {
+    background-color: azure;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.tech {
+    background-color: azure;
+    border-radius: 2px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.img {
+    float: right;
+    margin-right: 70px;
+    margin-top: 40px;
+    height: 130px;
+}
