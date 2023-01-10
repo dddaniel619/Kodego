@@ -1,0 +1,38 @@
+.container {
+    max-width: 400px;
+    margin: auto ;
+    border-style: solid;
+    
+    
+}
+.display {
+    text-align: right;
+    height: 70px;
+    line-height: 70px;
+    padding: 16px 8px;
+    font-size: 25px;
+}
+.buttons {
+    display: grid;
+    border-bottom: 1px black;
+    border-left: 1px black;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.button {
+    border: 0.5px solid black;
+    line-height: 100px;
+    text-align: center;
+    font-size: 25px;
+    cursor: pointer;
+}
+.equal {
+    background-color: green;
+    color: gray;
+}
+
+.button:hover {
+    background-color: maroon;
+    color: white;
+    transition: 0.5s ease-in-out;
+}
